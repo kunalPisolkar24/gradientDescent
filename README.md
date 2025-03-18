@@ -44,11 +44,11 @@ The notebook does the following:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your_repository_url>
+    git clone https://github.com/kunalPisolkar24/gradientDescent.git
     ```
 2.  **Navigate to the directory:**
     ```bash
-    cd <your_repository_directory>
+    cd gradientDescent
     ```
 3.  **Open the Jupyter Notebook:**
     ```bash
